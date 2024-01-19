@@ -6,6 +6,6 @@ html, body {
 }
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
-    color: #333;
+    background: rgb(169,169,169);
+    background: linear-gradient(228deg, rgba(169,169,169,1) 78%, rgba(0,0,0,1) 100%);
 }
